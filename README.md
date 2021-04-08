@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Ashley! 👋
+I am a student at Holberton School, currently in my foundations year. I intend to further my studies with the Full Stack Web Developer program. Some technologies I've enjoyed so far include Python, HTML, CSS, and JS. 
+
+I can also be found on <a href="https://twitter.com/blanketmanatee">Twitter</a> and <a href="https://codepen.io/blanketmanatee">Codepen</a>!
+
 
 <!--
 **blanketmanatee/blanketmanatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
