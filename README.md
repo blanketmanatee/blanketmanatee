@@ -1,7 +1,5 @@
 ### Hi, I'm Ashley! 👋
-I am a student at Holberton School, currently in my foundations year. I intend to further my studies with the Full Stack Web Developer program. Some technologies I've enjoyed so far include Python, HTML, CSS, and JS. 
-
-I can also be found on <a href="https://twitter.com/blanketmanatee">Twitter</a> and <a href="https://codepen.io/blanketmanatee">Codepen</a>!
+I am a student at Holberton School, graduating in April 2022. I am in the Full Stack Web Developer program, and intend to pursue a role in Front End Web Development. Some technologies I've enjoyed so far include Python, HTML, CSS, Figma, and JS. 
 
 
 <!--
